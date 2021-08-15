@@ -23,6 +23,6 @@ Modos de como usar
     $ pip3 install colorama
     $ python3 separador.py
 
-# IMPORTANTE
+# ") doka
 
 ![Eu](https://im7.ezgif.com/tmp/ezgif-7-7861f392a731.gif)
