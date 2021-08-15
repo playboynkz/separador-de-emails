@@ -22,3 +22,7 @@ Modos de como usar
     $ cd separador-de-emails
     $ pip3 install colorama
     $ python3 separador.py
+
+# IMPORTANTE
+
+![Eu](https://imgur.com/a/m3iAaZn)
