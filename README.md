@@ -25,4 +25,4 @@ Modos de como usar
 
 # IMPORTANTE
 
-![Eu](https://i.imgur.com/RjinqyG.jpg)
+![Eu](https://im7.ezgif.com/tmp/ezgif-7-7861f392a731.gif)
