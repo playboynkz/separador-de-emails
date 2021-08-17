@@ -25,4 +25,4 @@ Modos de como usar
 
 # ") doka
 
-![doka](https://c.tenor.com/haAobrgx8IEAAAAd/sidoka-fresh-fade.gif)
+![doka](https://i.pinimg.com/originals/58/db/70/58db702dcb208626dec008ee12988624.gif)
